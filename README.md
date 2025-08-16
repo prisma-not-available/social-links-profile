@@ -26,7 +26,7 @@ Users should be able to:
 - View the site for both mobile and desktop.
 ### Screenshot
 
-![Screenshot of my solution](./images/desktop_view.png)
+![Screenshot of my solution](.assets/images/desktop_view.png)
 
 ### Links
 

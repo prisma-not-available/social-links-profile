@@ -14,7 +14,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -26,7 +25,7 @@ Users should be able to:
 - View the site for both mobile and desktop.
 ### Screenshot
 
-![Screenshot of my solution](.assets/images/desktop_view.png)
+![Screenshot of my solution](./assets/images/desktop_view.png)
 
 ### Links
 
